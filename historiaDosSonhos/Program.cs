@@ -9,5 +9,4 @@ Console.WriteLine("Viver em paz e poder compartilhar a mesma");
 Console.WriteLine("Que eu fique rico trabalhando com programação");
 Console.WriteLine("Que o Brasil ganhe a copa");
 Console.WriteLine("Tomar Um Copo de Café Agora");   
-
 Console.WriteLine("Meu sonho é fazer uma viagem para conhecer a Tailandia");
