@@ -4,3 +4,4 @@ Console.WriteLine();
 
 // Capítulo 1
 Console.WriteLine("Era uma vez um grupo de pessoas que decidiu transformar sonhos em realidade...");
+Console.WriteLine("Que o Brasil ganhe a copa");
