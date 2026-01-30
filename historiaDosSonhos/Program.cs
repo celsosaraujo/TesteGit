@@ -7,3 +7,4 @@ Console.WriteLine("Era uma vez um grupo de pessoas que decidiu transformar sonho
 Console.WriteLine("Que as pessoas consigam conviver em harmonia");
 Console.WriteLine("Viver em paz e poder compartilhar a mesma");
 Console.WriteLine("Que eu fique rico trabalhando com programação");
+Console.WriteLine("Que o Brasil ganhe a copa");
